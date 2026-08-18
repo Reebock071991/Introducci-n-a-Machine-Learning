@@ -1,1 +1,1 @@
-En este archivo ponemos en práctica el uso de Regresión líneal.
+En este repositorio usaremos diversos algoritmos de Machine Learning
